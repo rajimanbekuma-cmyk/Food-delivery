@@ -1,5 +1,3 @@
-//This is my first project in Node.js
-
 const jwt = require('jsonwebtoken');
 const User = require('../models/User');
 
